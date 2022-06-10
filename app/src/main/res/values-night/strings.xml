@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="night_mode">Night Mode</string>
+    <string name="normal_mode">Normal Mode</string>
+    <string name="power_on_off">Power ON/OFF</string>
+</resources>
